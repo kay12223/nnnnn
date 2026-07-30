@@ -1,0 +1,6 @@
+{
+  "name": "أنقذني في آخر لحظة",
+  "description": "مساعد الذكاء الاصطناعي الذكي للطلاب لإعداد خطط مذاكرة دقيقة، ملخصات سريعة، وأهم 20%، وتوقعات الامتحانات في آخر لحظة قبل الامتحان.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
